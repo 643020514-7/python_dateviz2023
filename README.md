@@ -3,5 +3,5 @@
 
 Basic Programming for Data Science and Data Visualization
 
-Phuris Kruacharee
+ภูริศ เครือชารี
 643020514-7
