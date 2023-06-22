@@ -6,7 +6,7 @@ Basic Programming for Data Science and Data Visualization
 ภูริศ เครือชารี
 643020514-7
 
-##Grading
+# Grading
 A top 10-15 B+ ถึง F ตามเกณฑ์
 
 Homework (เดี่ยว,กลุ่ม-สุ่ม) 25%
