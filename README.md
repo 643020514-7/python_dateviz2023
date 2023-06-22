@@ -17,7 +17,7 @@ A top 10-15 B+ ถึง F ตามเกณฑ์
 -  Final Exam (กลุ่ม-สุ่ม) 20%
 -  Final Score = Score * Attendance
 
-- [x] ข้อแรก
-- [x] ข้อที่ 2
-- [x] ข้อที่ 3
-- [ ] ข้อที่ 4
+- [x] test
+- [x] test
+- [x] test
+- [ ] test
