@@ -15,3 +15,7 @@ Project (กลุ่ม-เลือกเอง) 30%
 Mid-term Exam (เดี่ยว) 15%
 Final Exam (กลุ่ม-สุ่ม) 20%
 Final Score = Score * Attendance
+
+> บรรทัดที่ 1  
+> บรรทัดที่ 2  
+> บรรทัดที่ 3  
